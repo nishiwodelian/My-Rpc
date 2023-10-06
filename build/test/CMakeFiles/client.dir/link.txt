@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/client.dir/client.cc.o  -o ../../bin/client   -L/home/zcy/Cpp/My-Rpc/lib  -Wl,-rpath,/home/zcy/Cpp/My-Rpc/lib ../../lib/libMyNetworkLib.so -lpthread 
